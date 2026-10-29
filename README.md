@@ -29,5 +29,5 @@ This dashboard provides insights into customer data and customer-related trends.
 
 ## **🛒 2. Orders & Payment Dashboard**
 This dashboard focuses on order analysis, payment methods, and order-related trends.
-![Orders & Payment](https://raw.githubusercontent.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/main/order_payment_dashboard.png)
+![Orders & Payment](https://github.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/blob/main/order%20%26%20payment%20dashboard.png)
 
