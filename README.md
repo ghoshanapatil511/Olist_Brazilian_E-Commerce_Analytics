@@ -24,7 +24,7 @@ A significant majority of orders successfully reach the delivered status, indica
 This project uses Power BI to analyze Brazilian e-commerce data and understand customer behavior, order performance, and payment trends.
 ## **👥 1. Customer Overview Dashboard**
 This dashboard provides insights into customer data and customer-related trends.
-![Customer Overview](https://raw.githubusercontent.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/main/customer_overview.png)
+![Customer Overview](https://github.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/blob/main/customer%20overview.png)
 
 
 ## **🛒 2. Orders & Payment Dashboard**
