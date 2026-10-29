@@ -20,3 +20,12 @@ Excel / CSV Datasets: Olist public e-commerce datasets (Customers, Orders, Payme
 Credit cards emerge as the most frequent and highest-value payment option among customers. 💳  
 ## **Fulfillment Reliability:** 
 A significant majority of orders successfully reach the delivered status, indicating a stable logistics backbone. ✅
+## **📊 Dashboard Preview**
+This project uses Power BI to analyze Brazilian e-commerce data and understand customer behavior, order performance, and payment trends.
+## **👥 1. Customer Overview Dashboard**
+This dashboard provides insights into customer data and customer-related trends.
+(https://github.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/blob/main/customer%20overview.png)
+
+## **🛒 2. Orders & Payment Dashboard**
+This dashboard focuses on order analysis, payment methods, and order-related trends.
+(https://github.com/ghoshanapatil511/Olist_Brazilian_E-Commerce_Analytics/blob/main/order%20%26%20payment%20dashboard.png)
